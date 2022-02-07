@@ -4,14 +4,14 @@
 收集一些好东西
 
 -  2022
-    -  [第1期：新年开篇](https://github.com/jacksonwuu/blog/blob/main/2022/第1期：新年开篇.md)
+    -  [第1期：新年开篇](https://github.com/jacksonwuu/weekly/blob/main/2022/第1期：新年开篇.md)
 -  2021
-    -  [第6期](https://github.com/jacksonwuu/blog/blob/main/2021/第6期.md)
-    -  [第5期](https://github.com/jacksonwuu/blog/blob/main/2021/第5期.md)
-    -  [第4期](https://github.com/jacksonwuu/blog/blob/main/2021/第4期.md)
-    -  [第3期](https://github.com/jacksonwuu/blog/blob/main/2021/第3期.md)
-    -  [第2期](https://github.com/jacksonwuu/blog/blob/main/2021/第2期.md)
-    -  [第1期](https://github.com/jacksonwuu/blog/blob/main/2021/第1期.md)
+    -  [第6期](https://github.com/jacksonwuu/weekly/blob/main/2021/第6期.md)
+    -  [第5期](https://github.com/jacksonwuu/weekly/blob/main/2021/第5期.md)
+    -  [第4期](https://github.com/jacksonwuu/weekly/blob/main/2021/第4期.md)
+    -  [第3期](https://github.com/jacksonwuu/weekly/blob/main/2021/第3期.md)
+    -  [第2期](https://github.com/jacksonwuu/weekly/blob/main/2021/第2期.md)
+    -  [第1期](https://github.com/jacksonwuu/weekly/blob/main/2021/第1期.md)
 -  关注我
     -  [Github](https://github.com/jacksonwuu)
     -  [硬核小卒（Telegram 频道）](https://t.me/yinghexiaozu)
