@@ -1,7 +1,9 @@
+
 # 周刊
+
 收集一些好东西
+
 -  2022
-    -  [第2期：做时间的朋友](https://github.com/jacksonwuu/blog/blob/main/2022/第2期：做时间的朋友.md)
     -  [第1期：新年开篇](https://github.com/jacksonwuu/blog/blob/main/2022/第1期：新年开篇.md)
 -  2021
     -  [第6期](https://github.com/jacksonwuu/blog/blob/main/2021/第6期.md)
@@ -22,4 +24,4 @@
 
 有了这样一层思考，我打算今年重新开启这个周刊，于是就重新整理出了这个周刊 repo。我主要会收集一些有趣或有用的东西，我无法保证周刊的更新频率，就先佛系地更新着吧。
 
-如果大家喜欢这样的内容，欢迎 star🌟！另外你也可以通过 issue 或其他途径给这个周刊投稿。
+如果大家喜欢这样的内容，通过 star🌟 来告诉我！另外你也可以通过 issue 或其他途径给这个周刊投稿。
