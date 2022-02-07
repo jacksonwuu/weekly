@@ -11,7 +11,7 @@
     -  [第2期](https://github.com/jacksonwuu/weekly/blob/main/2020/第2期.md)
     -  [第1期](https://github.com/jacksonwuu/weekly/blob/main/2020/第1期.md)
 -  关注我
-    -  [Github](https://github.com/jacksonwuu)
+    -  [GitHub](https://github.com/jacksonwuu)
     -  [硬核小卒（Telegram 频道）](https://t.me/yinghexiaozu)
 
 ### 周刊的起源
