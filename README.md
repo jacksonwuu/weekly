@@ -2,6 +2,7 @@
 # 周刊
 
 -  2022
+    -  [第2期](https://github.com/jacksonwuu/weekly/blob/main/2022/第2期.md)
     -  [第1期：新年开篇](https://github.com/jacksonwuu/weekly/blob/main/2022/第1期：新年开篇.md)
 -  2020
     -  [第6期](https://github.com/jacksonwuu/weekly/blob/main/2020/第6期.md)
