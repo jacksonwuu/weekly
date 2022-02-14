@@ -2,15 +2,15 @@
 # 周刊
 
 -  2022
-    -  [%E7%AC%AC2%E6%9C%9F](https://github.com/jacksonwuu/weekly/blob/main/2022/%E7%AC%AC2%E6%9C%9F.md)
-    -  [%E7%AC%AC1%E6%9C%9F%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BC%80%E7%AF%87](https://github.com/jacksonwuu/weekly/blob/main/2022/%E7%AC%AC1%E6%9C%9F%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BC%80%E7%AF%87.md)
+    -  [第2期](https://github.com/jacksonwuu/weekly/blob/main/2022/%E7%AC%AC2%E6%9C%9F.md)
+    -  [第1期：新年开篇](https://github.com/jacksonwuu/weekly/blob/main/2022/%E7%AC%AC1%E6%9C%9F%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BC%80%E7%AF%87.md)
 -  2020
-    -  [%E7%AC%AC6%E6%9C%9F](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC6%E6%9C%9F.md)
-    -  [%E7%AC%AC5%E6%9C%9F](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC5%E6%9C%9F.md)
-    -  [%E7%AC%AC4%E6%9C%9F](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC4%E6%9C%9F.md)
-    -  [%E7%AC%AC3%E6%9C%9F](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC3%E6%9C%9F.md)
-    -  [%E7%AC%AC2%E6%9C%9F](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC2%E6%9C%9F.md)
-    -  [%E7%AC%AC1%E6%9C%9F](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC1%E6%9C%9F.md)
+    -  [第6期](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC6%E6%9C%9F.md)
+    -  [第5期](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC5%E6%9C%9F.md)
+    -  [第4期](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC4%E6%9C%9F.md)
+    -  [第3期](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC3%E6%9C%9F.md)
+    -  [第2期](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC2%E6%9C%9F.md)
+    -  [第1期](https://github.com/jacksonwuu/weekly/blob/main/2020/%E7%AC%AC1%E6%9C%9F.md)
 -  关注我
     -  [GitHub](https://github.com/jacksonwuu)
     -  [硬核小卒（Telegram 频道）](https://t.me/yinghexiaozu)
