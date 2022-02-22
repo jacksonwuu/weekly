@@ -1,4 +1,8 @@
 
+# 周刊
+
+![](https://img.shields.io/badge/Subscribe-Telegram%20Channel-blue?link=https://t.me/yinghexiaozu&link=https://t.me/yinghexiaozu) ![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fjacksonwuuu)
+
 <p align="center">
   <img width="720" src="https://i.imgur.com/cIJ3U7p.png">
 </p>
